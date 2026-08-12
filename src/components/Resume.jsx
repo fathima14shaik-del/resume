@@ -70,7 +70,7 @@ const Resume = ({ onDownload }) => {
 
       degree: "Bachelor's Degree",
 
-      institution: "University / College Name",
+      institution: "Pace Institute of Technology and Sciences",
 
       location: "India",
 
